@@ -1,2 +1,5 @@
 # hmis-repo01
-hmis primer repo
+hmis primer repo.
+> Esta nota es solo para hacer el primer cambio en el README
+
+Jorge García López
